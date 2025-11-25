@@ -15,3 +15,4 @@
    - 시스템 설정 구성 / 관리자 / 강의 카테고리, 수강료 정책, 서버 설정 등 플랫폼 전반의 운영 환경을 설정하고 변경하는 기능
   
 2) Usecase Diagram
+![Image](https://github.com/user-attachments/assets/354fc952-3534-461f-845a-7d030246cbff)
