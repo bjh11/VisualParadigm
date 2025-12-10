@@ -29,6 +29,7 @@ Online Education – 온라인 강의 플랫폼 시스템
 - 시스템 설정 구성 (관리자): 카테고리, 정책, 서버 설정 등 시스템 환경 구성
 
 4. UML 다이어그램
+   
 4.1 Use Case Diagram
    
 <img width="1238" height="997" alt="Image" src="https://github.com/user-attachments/assets/cb62c513-5c41-4525-8f4a-a2f457baa6a6" />
