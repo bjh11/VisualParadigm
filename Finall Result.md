@@ -1,3 +1,5 @@
+<Online Education Platform 최종 결과 보고서>
+
 1. 프로젝트 개요
 1.1 프로젝트명
 Online Education – 온라인 강의 플랫폼 시스템
@@ -28,16 +30,20 @@ Online Education – 온라인 강의 플랫폼 시스템
 
 4. UML 다이어그램
 4.1 Use Case Diagram
-[그림 1. Use Case Diagram 삽입]
+<img width="1238" height="997" alt="Image" src="https://github.com/user-attachments/assets/cb62c513-5c41-4525-8f4a-a2f457baa6a6" />
+
 
 4.2 Sequence Diagram
-[그림 2. Sequence Diagram 삽입]
+<img width="820" height="491" alt="Image" src="https://github.com/user-attachments/assets/e3a645b7-9cbe-40a1-8191-357a86b9d440" />
+
 
 4.3 Class Diagram
-[그림 3. Class Diagram 삽입]
+<img width="690" height="1185" alt="Image" src="https://github.com/user-attachments/assets/dc7160ae-b999-42ab-b24e-18d68c24d77a" />
+
 
 4.4 ER(Entity-Relationship) Diagram
-[그림 4. ER Diagram 삽입]
+<img width="966" height="340" alt="Image" src="https://github.com/user-attachments/assets/cd7df565-a10b-44a4-9798-dacf792580e1" />
+
 
 5. UI 화면 설계
 5.1 Student, Instructor, Admin Dashboard
@@ -65,7 +71,8 @@ Online Education – 온라인 강의 플랫폼 시스템
 
 7. 데이터베이스 구조
 본 플랫폼은 Student, Instructor, Admin, Course, Enrollment, Lesson 테이블을 중심으로 구성되며 학생–수강–강의 간 다대다 관계를 관리하기 위해 Enrollment 엔티티를 사용하였다.
-[ERID 이미지]
+<img width="694" height="369" alt="Image" src="https://github.com/user-attachments/assets/d3ca1b60-b269-4d4c-a877-d07e4a315cd4" />
+
 
 8. 결론
 본 프로젝트를 통해 온라인 교육 플랫폼의 핵심 기능(강의 검색, 콘텐츠 제공, 진도 관리, 사용자 관리 등)을 체계적으로 분석하고 UML 기반의 구조 설계를 수행하였다.
