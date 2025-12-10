@@ -77,7 +77,7 @@ Online Education – 온라인 강의 플랫폼 시스템
 7. 데이터베이스 구조
 본 플랫폼은 Student, Instructor, Admin, Course, Enrollment, Lesson 테이블을 중심으로 구성되며 학생–수강–강의 간 다대다 관계를 관리하기 위해 Enrollment 엔티티를 사용하였다.
 
-<img width="694" height="369" alt="Image" src="https://github.com/user-attachments/assets/d3ca1b60-b269-4d4c-a877-d07e4a315cd4" />
+<img width="966" height="340" alt="Image" src="https://github.com/user-attachments/assets/cd7df565-a10b-44a4-9798-dacf792580e1" />
 
 
 9. 결론
