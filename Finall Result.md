@@ -47,7 +47,7 @@ Online Education – 온라인 강의 플랫폼 시스템
 
 4.4 ER(Entity-Relationship) Diagram
 
-<img width="966" height="340" alt="Image" src="https://github.com/user-attachments/assets/cd7df565-a10b-44a4-9798-dacf792580e1" />
+<img width="694" height="369" alt="Image" src="https://github.com/user-attachments/assets/d930e2e9-8cb5-488b-a617-abd50756f1b0" />
 
 
 5. UI 화면 설계
